@@ -7,11 +7,7 @@ category: sample
 # post-sample
 > Hello!
 
-<iframe id="mainFrame" name="mainFrame" allowfullscreen="true" src="/PostView.naver?blogId=sasd9750o&logNo=223082863796&redirect=Dlog&widgetTypeCall=true&noTrackingCode=true&directAccess=false" scrolling="auto" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle); oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" allowfullscreen></iframe>
-
-<iframe width="956" height="538" src="/PostView.naver?blogId=sasd9750o&logNo=223082863796&redirect=Dlog&widgetTypeCall=true&noTrackingCode=true&directAccess=false" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ufs56c?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 This is code
 ```ruby
