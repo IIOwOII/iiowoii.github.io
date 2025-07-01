@@ -1,8 +1,8 @@
 ---
 layout: post
-title: guest run1
+title: guest1
 date: 2025-07-02 19:20:23 +0900
-category: Movie
+category: sample
 ---
 # guest run1
 
