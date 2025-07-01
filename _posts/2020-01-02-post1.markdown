@@ -7,13 +7,11 @@ category: sample
 # post-sample
 > Hello!
 
-<body>
-<iframe id="mainFrame" name="mainFrame" allowfullscreen="true"
-		src="/PostView.naver?blogId=sasd9750o&logNo=223082863796&redirect=Dlog&widgetTypeCall=true&noTrackingCode=true&directAccess=false"
-		scrolling="auto"
-		onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();"
-		allowfullscreen></iframe>
-</body>
+<iframe id="mainFrame" name="mainFrame" allowfullscreen="true" src="/PostView.naver?blogId=sasd9750o&logNo=223082863796&redirect=Dlog&widgetTypeCall=true&noTrackingCode=true&directAccess=false" scrolling="auto" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle); oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" allowfullscreen></iframe>
+
+<iframe width="956" height="538" src="/PostView.naver?blogId=sasd9750o&logNo=223082863796&redirect=Dlog&widgetTypeCall=true&noTrackingCode=true&directAccess=false" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is code
 ```ruby
