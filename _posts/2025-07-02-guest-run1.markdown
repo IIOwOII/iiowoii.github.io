@@ -1,0 +1,16 @@
+---
+layout: post
+title: guest run1
+date: 2025-07-02 19:20:23 +0900
+category: Movie
+---
+# guest run1
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://geo.dailymotion.com/player.html?video=k16Sz5sMU2hd05DlE08"
+    style="width:50%; height:50%; position:absolute; left:0px; top:0px; overflow:hidden; border:none;"
+    allowfullscreen
+    title="Dailymotion Video Player"
+    allow="web-share">
+  </iframe>
+</div>
