@@ -1,0 +1,12 @@
+---
+layout: post
+title: Tom
+date: 2020-01-02 19:20:23 +0900
+category: sample
+---
+# poster example
+> Hello!
+
+![alt text](/public/img/poster.png)
+
+
